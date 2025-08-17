@@ -35,7 +35,6 @@ Esta herramienta es perfecta para múltiples situaciones donde necesites hacer u
 - **Karaoke**: Elegir el siguiente cantante
 - **Trivia**: Seleccionar participantes para preguntas especiales
 
-
 ## 🛠️ Tecnologías Utilizadas
 
 - **HTML5**: Estructura semántica del proyecto
@@ -45,6 +44,13 @@ Esta herramienta es perfecta para múltiples situaciones donde necesites hacer u
 
 ### 🚀 Da click en el siguiente link para probarlo
 - https://davidalfonso-19.github.io/amigo_secreto/
+
+### 📸 Capturas de pantalla
+- Agregando amigos
+<img src="assets\ingresarAmigo.png" alt = "Ingresar amigo" width = "100%"/>
+
+- Amigo secreto
+<img src="assets\resultado.png" alt = "Resultafo" width = "100%"/>
 
 ## 🎮 Cómo Usar
 
